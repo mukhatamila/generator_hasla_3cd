@@ -1,7 +1,7 @@
 # Raport o blędzie
 
 ## Numer / identyfikator błędu
-0001
+0001 <br>
 0002
 ## Tytuł błędu
 1.błąd w zapisie w linijce 9 zamiast sample pisze samplef
