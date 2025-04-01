@@ -15,7 +15,7 @@ pycharm
 
 ## Opis
 1. ktoś zrobił literówke przez co kod nie działa
-2. ktoś dodał dodatkowy tab przed all
+2. ktoś dodał dodatkowy tab przed kodem
 ## Kroki do reprodukcji
 1. napisać w random.samplef zamiast random.sample
 2. kliknąć tab i w miejscu gdzie się nie powinno co psuje skłądnie pythona
@@ -24,5 +24,5 @@ pycharm
 2. kod miał wygenerować hasło a odpalił się z błędem
 ## Zrzut ekranu
 ![image](https://github.com/user-attachments/assets/23d06c92-2e59-4b55-8185-4f40dc5a9132)
+![image](https://github.com/user-attachments/assets/583e91bc-e8fd-4f7c-a560-e9ef3b658adb)
 
-![image](https://github.com/user-attachments/assets/96358e33-23df-4b02-9590-42f861eff6b0)
