@@ -1,25 +1,27 @@
 # Raport o blędzie
 
 ## Numer / identyfikator błędu
-1
+1, 2
 
 ## Tytuł błędu
-Literówka
-
-## Priorytet
-priorytetowy
+1.Literówka
+2.zmienna symbols nie posiada zamkniecia zmiennej
 
 ## Platforma / środowisko
 pycharm
 
 ## Opis
-źle ułożone tzbulatory
+Źle ułożone tzbulatory
 
 ## Kroki do reprodukcji
-usuniecie lkitery "f" z sample
+
+Usuniecie lkitery "f" z sample
+Zamknięcie zmiennej symbols
 
 ## Oczekiwany i rzeczywisty wynik
-Oczekiwania: miał działać,rzeczywisty wynik: daział
+
+Oczekiwnay: Kod działa
+Rzeczywisty:Kod nie działa 
 
 ## Zrzut ekranu
 ![image](https://github.com/user-attachments/assets/94a6d072-486f-4381-aae7-eca8be728580)
