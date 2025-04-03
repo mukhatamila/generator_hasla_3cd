@@ -1,0 +1,33 @@
+Raport o błędzie
+Numer błędu: 1
+
+Tytuł błędu: Błąd składni i literówka w random.samplef
+
+Priorytet: Wysoki
+
+Platforma / środowisko: PyCharm
+
+Opis:
+Kod zawiera kilka błędów składniowych i literówek, które uniemożliwiają jego poprawne wykonanie.
+
+Kroki do reprodukcji:
+
+Usunac taby, usunac literowke f w slowie samplef, zamknac nawias w symbol = ""
+
+Rzeczywisty wynik:
+Kod nie działa, a Python zgłasza następujące błędy:
+
+Błąd składniowy (SyntaxError) – Nieprawidłowe wcięcia w kodzie.
+
+Błąd literówki (AttributeError) – Nieistniejąca metoda random.samplef. Powinno być random.sample.
+
+Błąd łańcucha znaków (SyntaxError) – Podwójny apostrof ('') na końcu zmiennej symbols powoduje błąd.
+
+Błąd zmiennej (NameError) – Brak spacji między +number +symbols powoduje błąd w konkatenacji.
+
+Zmiany:
+Poprawiono wcięcia kodu.
+Zamieniono random.samplef na random.sample.
+Poprawiono błąd w zmiennej symbols.
+Poprawiono błąd składniowy przy konkatenacji (+ numbers + symbols).
+Zmieniono all na all_chars, aby uniknąć nadpisywania funkcji wbudowanej.
