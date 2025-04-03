@@ -7,3 +7,14 @@
 3. Stwórz konspekt zagadnienia
 4. Przetestuj podany kod na dołączonym obrazku: **Generator hasła**
 5. Stwórz raport o blędzie na podstawie przykładowego pliku.
+
+import random
+
+lower="abcdefghijklmnopqrstuvwxyz"
+upper="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+numbers="0123456789"
+symbols="[]{}()*;/,._-''"
+        all = lower + upper + number + symbols
+        length = 16
+        password=" ".join(random.samplef (all.length))
+        print(password)
