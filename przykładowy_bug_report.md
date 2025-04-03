@@ -28,3 +28,6 @@ Rzeczywisty:Kod nie działa
 
 ##sample
 wybiera dlugos stringa np gdy jest 16 to wybierze 16 liter/liczb/symboli
+
+#kto co robil
+
